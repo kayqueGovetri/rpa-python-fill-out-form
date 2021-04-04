@@ -27,3 +27,6 @@
   
 # Resultados:
   Será possível ver visualmente o robo funcionando mas no fim ele sempre vai liberar um png como resultado, o nome do arquivo é "results.png".
+
+# Observações
+  - Modo headless só funciona quando se utiliza apenas o DOM.
