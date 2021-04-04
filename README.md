@@ -21,9 +21,9 @@
       
 
 # Como rodar:
-  1º Deixe a resolução no full hd.
-  2º Instale no venv o RPA-Python com "pip install rpa".
-  3º Rodar o "main.py" com "python3 main.py".
+  - 1º Deixe a resolução no full hd.
+  - 2º Instale no venv o RPA-Python com "pip install rpa".
+  - 3º Rodar o "main.py" com "python3 main.py".
   
 # Resultados:
   Será possível ver visualmente o robo funcionando mas no fim ele sempre vai liberar um png como resultado, o nome do arquivo é "results.png".
