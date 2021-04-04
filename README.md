@@ -14,7 +14,7 @@
       - 1º Rodar o comando: "sudo ln -s /usr/lib/jni/libopencv_java<versão>.so /usr/lib/libopencv_java.so"
       
     - Instalar Tesseract
-      - 1º sudo pt-get install tesseract-ocr
+      - 1º sudo apt-get install tesseract-ocr
       - 2º Para verificar que foi instalado corretamente utilizar o comando "tesseract -v".
     
     - Instalar o chrome.
