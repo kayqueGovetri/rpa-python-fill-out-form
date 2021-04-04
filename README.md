@@ -17,6 +17,9 @@
       - 1º sudo apt-get install tesseract-ocr
       - 2º Para verificar que foi instalado corretamente utilizar o comando "tesseract -v".
     
+    - Instalar o php:
+      - 1º sudo apt-get install apache2 php
+    
     - Instalar o chrome.
       
 
